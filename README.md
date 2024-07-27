@@ -5,7 +5,7 @@
 ### 使用
 
 ```js
-import generateRunner from 'jscontext'
+import generateRunner from 'self-global'
 
 const { code, run } = generateRunner(`
 console.log('start')
